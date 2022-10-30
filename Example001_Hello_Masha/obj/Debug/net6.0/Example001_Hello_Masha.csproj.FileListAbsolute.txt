@@ -1,0 +1,15 @@
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\bin\Debug\net6.0\Example001_Hello_Masha.exe
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\bin\Debug\net6.0\Example001_Hello_Masha.deps.json
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\bin\Debug\net6.0\Example001_Hello_Masha.runtimeconfig.json
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\bin\Debug\net6.0\Example001_Hello_Masha.dll
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\bin\Debug\net6.0\Example001_Hello_Masha.pdb
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\obj\Debug\net6.0\Example001_Hello_Masha.csproj.AssemblyReference.cache
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\obj\Debug\net6.0\Example001_Hello_Masha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\obj\Debug\net6.0\Example001_Hello_Masha.AssemblyInfoInputs.cache
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\obj\Debug\net6.0\Example001_Hello_Masha.AssemblyInfo.cs
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\obj\Debug\net6.0\Example001_Hello_Masha.csproj.CoreCompileInputs.cache
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\obj\Debug\net6.0\Example001_Hello_Masha.dll
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\obj\Debug\net6.0\refint\Example001_Hello_Masha.dll
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\obj\Debug\net6.0\Example001_Hello_Masha.pdb
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\obj\Debug\net6.0\Example001_Hello_Masha.genruntimeconfig.cache
+D:\Sergey\Again C# Examples\Example001_Hello_Masha\obj\Debug\net6.0\ref\Example001_Hello_Masha.dll
